@@ -1,0 +1,28 @@
+{
+	"name": "Java開発環境",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "user",
+	"workspaceFolder": "/home/user",
+	"customizations": {
+		"vscode": {
+			"settings": {},									// VSCode設定
+			"extensions": [									// VSCode機能拡張
+				"ms-ceintl.vscode-language-pack-ja", 		//	日本語言語パック
+				"vscode-icons-team.vscode-icons",			// 	vscode-icons
+				"streetsidesoftware.code-spell-checker",	// 	Code Spell Checker
+				"eamodio.gitlens",							// 	GitLens
+				"donjayamanne.githistory",					// 	Git History
+				"github.copilot",							// 	GitHub Copilot
+				"oderwat.indent-rainbow",					// 	indent-rainbow
+				"mosapride.zenkaku",						// 	zenkaku
+				"ionutvmi.path-autocomplete",				// 	Path Autocomplete
+				"gruntfuggly.todo-tree",					// 	To do Tree
+				"aaron-bond.better-comments",				// 	Better Comments
+				"formulahendry.code-runner",				// 	Code Runner
+                "vscjava.vscode-java-pack"                  //  Extension Pack for Java
+			]
+		}	
+	}
+}
