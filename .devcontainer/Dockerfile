@@ -1,5 +1,4 @@
 # Java 開発環境
-#   Open
 #
 FROM ibm-semeru-runtimes:open-21-jre
 

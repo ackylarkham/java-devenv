@@ -18,7 +18,7 @@
 				"mosapride.zenkaku",						// 	zenkaku
 				"ionutvmi.path-autocomplete",				// 	Path Autocomplete
 				"gruntfuggly.todo-tree",					// 	To do Tree
-				"aaron-bond.better-comments",				// 	Better Comments
+				"aaron-bond.better-comments",				// 	Better Comments 
 				"formulahendry.code-runner",				// 	Code Runner
                 "vscjava.vscode-java-pack"                  //  Extension Pack for Java
 			]
