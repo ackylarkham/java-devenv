@@ -5,7 +5,8 @@ FROM ibm-semeru-runtimes:open-21-jdk
 # 環境変数
 ENV DEBIAN_FRONTEND=noninteractive \  
     LANG=ja_JP.UTF-8 \
-    LANGUAGE=ja_JP:ja \ 
+    LANGUAGE=ja_JP:ja \
+    LC_ALL=ja_JP.UTF-8 \
     TZ=Asia/Tokyo
 
 # パッケージインストール
