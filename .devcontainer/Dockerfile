@@ -1,6 +1,6 @@
 # Java 開発環境
 #
-FROM ibm-semeru-runtimes:open-21-jre
+FROM ibm-semeru-runtimes:open-21-jdk
 
 # 環境変数
 ENV DEBIAN_FRONTEND=noninteractive \  
