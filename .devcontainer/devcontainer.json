@@ -20,7 +20,8 @@
 				"gruntfuggly.todo-tree",					// 	To do Tree
 				"aaron-bond.better-comments",				// 	Better Comments 
 				"formulahendry.code-runner",				// 	Code Runner
-                "vscjava.vscode-java-pack"                  //  Extension Pack for Java
+                "vscjava.vscode-java-pack",                 //  Extension Pack for Java
+				"ms-vscode.live-server"						// Live Preview - VS Code Extension
 			]
 		}	
 	}
